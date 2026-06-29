@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="ERi-TV" group-title="Eritrea",ERi-TV
+http://eri.tv/live/eritv.m3u8
+
+#EXTINF:-1 tvg-name="ERi-TV 2" group-title="Eritrea",ERi-TV 2
+http://eri.tv/live/eritv2.m3u8
+
+#EXTINF:-1 tvg-name="Eritrea Radio" group-title="Eritrea",Eritrea Radio
+http://eri.tv/live/radio.m3u8
+
+#EXTINF:-1 tvg-name="EBC" group-title="Ethiopia",EBC
+https://ebctv.org/live/ebc.m3u8
+
+#EXTINF:-1 tvg-name="Oromia TV" group-title="Ethiopia",Oromia TV
+http://oromiatv.org/live/stream.m3u8
+
+#EXTINF:-1 tvg-name="Fana TV" group-title="Ethiopia",Fana TV
+http://fana.tv/live/fanatv.m3u8
+
+#EXTINF:-1 tvg-name="Sky News" group-title="UK",Sky News
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau/skynewsau.m3u8
+
+#EXTINF:-1 tvg-name="GB News" group-title="UK",GB News
+https://live-gbnews.simplestreamcdn.com/live/gbnews/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TalkTV" group-title="UK",TalkTV
+https://talktv-live.akamaized.net/hls/live/2099029/talktv/playlist.m3u8
