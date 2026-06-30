@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Eri-TV" group-title="Eritrea",Eri-TV
+https://streamer1.nyc1.akamai-cdn.com/eritv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Eri-TV International" group-title="Eritrea",Eri-TV International
+https://streamer1.nyc1.akamai-cdn.com/eritv2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Eritrea Radio" group-title="Eritrea",Eritrea Radio
+https://streamer1.nyc1.akamai-cdn.com/eradio/live/playlist.m3u8
