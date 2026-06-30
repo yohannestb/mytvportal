@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="OMN" group-title="Ethiopia",OMN
+https://omn.cdn.mangomolo.com/omnlive/smil:omnlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DW Amharic" group-title="Ethiopia",DW Amharic
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-name="DW Africa" group-title="Ethiopia",DW Africa
+https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500519/master.m3u8
+
+#EXTINF:-1 tvg-name="Ethiopian Evangelical TV" group-title="Ethiopia",Ethiopian Evangelical TV
+https://ethiotv.cdn.mangomolo.com/ethiotv/smil:ethiotv.smil/playlist.m3u8
