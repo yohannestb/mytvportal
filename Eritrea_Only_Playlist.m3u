@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Eri-TV" group-title="Eritrea",Eri-TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/er/eritv.m3u8
+
+#EXTINF:-1 tvg-name="Eri-TV International" group-title="Eritrea",Eri-TV International
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/er/eritv2.m3u8
+
+#EXTINF:-1 tvg-name="Eritrea Radio" group-title="Eritrea",Eritrea Radio
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/er/er_radio.m3u8
